@@ -1,0 +1,10 @@
+.table1 {
+    background-color: blue;
+    width: 50%;
+    margin-bottom: 1px;
+    border: none;
+   
+}
+.table1 .syum_profile {
+    background-color: transparent;
+}
